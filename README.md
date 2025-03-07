@@ -37,5 +37,5 @@ define('AUTO_DELETE', false);
 ```
 
 <p>
- İyi Kodlamalar.
+ İyi kodlamalar.
 </p>
